@@ -4,6 +4,7 @@
   </a>
 </div>
 
+<div align="center">
 I'm Chenlei Li (李晨磊), an undergraduate passionate about artificial intelligent.
 
 I enjoy creating and experimenting — and I’ll be sharing some of my small projects here. 🔧
@@ -36,4 +37,5 @@ I enjoy creating and experimenting — and I’ll be sharing some of my small pr
 
   ### 📫 How to Reach me
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2904420541@qq.com)
+  
 </div>
