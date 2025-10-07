@@ -22,15 +22,11 @@ I enjoy creating and experimenting — and I’ll be sharing some of my small pr
 
   ### 📊 GitHub Stats
   <div align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ic1fy&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ic1fy&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic1fy&layout=compact&theme=transparent" alt="Top Languages" />
   </div>
-  <div align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic1fy&layout=compact&theme=transparent" alt="Top Languages" />
-  </div>
-
 
   ### 👀 Profile Views
-
   ![Profile Views](https://komarev.com/ghpvc/?username=ic1fy&style=for-the-badge&color=blue)
 
   ### 📫 How to Reach me
