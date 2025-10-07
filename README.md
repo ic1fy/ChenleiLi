@@ -27,8 +27,8 @@ I enjoy creating and experimenting — and I’ll be sharing some of my small pr
   </div>
 
   <picture>
-    <source srcset="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/ic1fy/ic1fy/ChenleiLi/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <source srcset="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
   </picture>
 
   ### 👀 Profile Views
