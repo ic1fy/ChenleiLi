@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=30&pause=1000&color=F7CB4C&background=1CFFF900&center=true&vCenter=true&width=435&lines=Welcome+to+ic1fy's+Github+%F0%9F%99%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=30&pause=1000&color=fedc5e&background=1CFFF900&center=true&vCenter=true&width=435&lines=Welcome+to+ic1fy's+Github+%F0%9F%99%8B" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,6 +25,14 @@ I enjoy creating and experimenting — and I’ll be sharing some of my small pr
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ic1fy&show_icons=true&theme=transparent" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic1fy&layout=compact&theme=transparent" alt="Top Languages" />
   </div>
+
+  <div align="center">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    </picture>
+  </div>
+
 
   ### 👀 Profile Views
   ![Profile Views](https://komarev.com/ghpvc/?username=ic1fy&style=for-the-badge&color=blue)
