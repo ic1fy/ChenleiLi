@@ -23,6 +23,8 @@ I enjoy creating and experimenting — and I’ll be sharing some of my small pr
   ### 📊 GitHub Stats
   <div align="center">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ic1fy&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  </div>
+  <div align="center">
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic1fy&layout=compact&theme=transparent" alt="Top Languages" />
   </div>
 
