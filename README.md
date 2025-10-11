@@ -1,23 +1,33 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=800&size=30&pause=1000&color=fedc5e&background=1CFFF900&center=true&vCenter=true&width=435&lines=Welcome+to+ic1fy's+Github+%F0%9F%99%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&width=435&lines=Welcome+to+ic1fy's+Github" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-I'm Chenlei Li (李晨磊), an undergraduate passionate about artificial intelligent.
+I'm Chenlei Li (李晨磊), an undergraduate fascinated by the possibilities of artificial intelligence.
 
-I enjoy creating and experimenting — and I’ll be sharing some of my small projects here. 🔧
+I like building things and sharing some small, simple projects here. 🔧
 
-  🌐 [Personal Homepage](https://chenlei-li.github.io/)
+  🌐 [Personal Homepage](https://chenlei-li.github.io/) — visit to learn more about my work and interests.
 
   ### 🛠️ Tech Stack
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+  **Languages**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+  **Frameworks**  
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+  **Tools**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 
   ### 📊 GitHub Stats
@@ -26,13 +36,13 @@ I enjoy creating and experimenting — and I’ll be sharing some of my small pr
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic1fy&layout=compact&theme=transparent" alt="Top Languages" />
   </div>
 
-  <div align="center">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-    </picture>
-  </div>
 
+  <div align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/ic1fy/ChenleiLi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+  </div>
 
   ### 👀 Profile Views
   ![Profile Views](https://komarev.com/ghpvc/?username=ic1fy&style=for-the-badge&color=blue)
